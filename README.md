@@ -1,4 +1,5 @@
 Author: Saskia van Rijnsoever
+
 This python code was written for the Master of Science Thesis titled "Using fluorescent proteins to encode the colour spectrum into DNA for archiving of digital information."
 
 Abstract:
